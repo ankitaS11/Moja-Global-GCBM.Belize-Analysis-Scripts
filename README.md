@@ -23,11 +23,11 @@ Following is a quick description of the scripts:
 
 ## Visualizations
 
-<img src="output/NPP.png" width=250 height=250>NPP</img>
+<img src="output/NPP.png">NPP</img>
 <br></br>
-<img src="output/NEP.png" width=250 height=250>NEP</img>
+<img src="output/NEP.png">NEP</img>
 <br></br>
-<img src="output/NBP.png" width=250 height=250>NBP</img>
+<img src="output/NBP.png">NBP</img>
 <br></br>
-<img src="output/Rh.png" width=250 height=250>Rh</img>
+<img src="output/Rh.png">Rh</img>
 <br></br>
